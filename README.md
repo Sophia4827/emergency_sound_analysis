@@ -5,7 +5,7 @@ This repo contains the code and final presentation for an audio machine learning
 Here are the different components:
 
 - [CNN Notebook](./502_WorkingProgram_CNN.ipynb): Full pipeline including audio preprocessing, feature extraction, model architecture, training, fine-tuning, and evaluation
-- [Final Presentation]("./502 Final Project Presentation.pdf"): Project overview, methodology, and results
+- [Final Presentation](./502_Final_Project_Presentation.pdf): Project overview, methodology, and results
 
 ## Overview
 
