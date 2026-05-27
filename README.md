@@ -39,4 +39,4 @@ Emergency vehicle detection has real-world applications in traffic management, a
 
 ## Authors
 
-Sophia Huang · Binghamton University MS Data Analytics · Fall 2025
+Sophia Huang · Lydia Wyble · Peter Pavlatos · Binghamton University MS Data Analytics · Fall 2025
